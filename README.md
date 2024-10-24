@@ -20,8 +20,14 @@ You can access the project through the Streamlit app by clicking the link below:
 # Installation Instructions
 To run the project locally:
 
-Clone the repository:
+1.Clone the repository:
 git clone https://github.com/Mithraadharshini/ANAMOLY_DETECTION_IN_WATER_PURIFICATION_SYSTEM.git
 
-Navigate to the project directory:
+2.Navigate to the project directory:
+cd ANAMOLY_DETECTION_IN_WATER_PURIFICATION_SYSTEM
 
+3.Install dependencies for both React frontend and the backend:
+npm install
+
+4.Start the development server:
+npm start
