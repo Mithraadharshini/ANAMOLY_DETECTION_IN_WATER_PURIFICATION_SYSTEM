@@ -5,3 +5,15 @@ This project focuses on the detection of anomalies in sensor streams based on ma
  This would be the objective of predictive maintenance solutions. By identifying sensor failures early, this approach minimizes system downtime and reduces maintenance costs.
 This project will also review the ability of predictive maintenance on overall system reliability and operational efficiency.
 The results demonstrate the potential of advanced anomaly detection to improve system performance and ensure consistent water quality in purification processes.
+
+Project Demo
+You can access the project through the Streamlit app by clicking the link below:
+
+🔗 Anomaly Detection Streamlit App
+
+Features
+* Real-time Monitoring: Get live updates on water quality parameters.
+* Anomaly Detection: Predict and detect failures before they happen using advanced machine learning models.
+* User Alerts: Get notified when anomalies are detected.
+* React-based Login System: A frontend login system built using React for secure user access.
+
