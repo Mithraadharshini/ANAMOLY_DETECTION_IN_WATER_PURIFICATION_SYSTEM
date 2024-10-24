@@ -9,7 +9,7 @@ The results demonstrate the potential of advanced anomaly detection to improve s
 Project Demo
 You can access the project through the Streamlit app by clicking the link below:
 
-🔗 Anomaly Detection Streamlit App
+🔗 [https://anomaly-detections-k7pxdautrxyeusrluusmsu.streamlit.app/]
 
 Features
 * Real-time Monitoring: Get live updates on water quality parameters.
