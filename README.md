@@ -31,3 +31,9 @@ npm install
 
 4.Start the development server:<br>
 npm start
+
+#Technologies Used
+* Frontend: React
+* Backend: Flask (with MongoDB for database operations)
+* Machine Learning Models: LSTM, ARIMA, SARIMA
+* Deployment: Streamlit
