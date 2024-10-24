@@ -6,7 +6,7 @@ This project focuses on the detection of anomalies in sensor streams based on ma
 This project will also review the ability of predictive maintenance on overall system reliability and operational efficiency.
 The results demonstrate the potential of advanced anomaly detection to improve system performance and ensure consistent water quality in purification processes.
 
-Project Demo
+# Project Demo
 You can access the project through the Streamlit app by clicking the link below:
 
 🔗 [https://anomaly-detections-k7pxdautrxyeusrluusmsu.streamlit.app/]
