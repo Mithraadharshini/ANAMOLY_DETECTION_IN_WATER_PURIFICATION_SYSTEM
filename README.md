@@ -11,9 +11,17 @@ You can access the project through the Streamlit app by clicking the link below:
 
 🔗 [https://anomaly-detections-k7pxdautrxyeusrluusmsu.streamlit.app/]
 
-Features
+#Features
 * Real-time Monitoring: Get live updates on water quality parameters.
 * Anomaly Detection: Predict and detect failures before they happen using advanced machine learning models.
 * User Alerts: Get notified when anomalies are detected.
 * React-based Login System: A frontend login system built using React for secure user access.
+
+# Installation Instructions
+To run the project locally:
+
+Clone the repository:
+git clone https://github.com/Mithraadharshini/ANAMOLY_DETECTION_IN_WATER_PURIFICATION_SYSTEM.git
+
+Navigate to the project directory:
 
